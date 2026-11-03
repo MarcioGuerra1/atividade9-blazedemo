@@ -1,0 +1,17 @@
+[
+  {
+    "descricao": "Usuário 1 com dados válidos",
+    "email": "marcio@teste.com",
+    "senha": "123456"
+  },
+  {
+    "descricao": "Usuário 2 com outro e-mail",
+    "email": "maria@teste.com",
+    "senha": "abc123"
+  },
+  {
+    "descricao": "Usuário 3 com senha longa",
+    "email": "joao@teste.com",
+    "senha": "SenhaMuitoLonga@2026"
+  }
+]
